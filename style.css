@@ -292,7 +292,7 @@ hr {
     color: rgb(19, 125, 255);
 }
 .main-1 .svg-1{
-    
+
 }
 .svg-2,
 .svg-3 {
@@ -473,11 +473,11 @@ hr{
 .product {
     border: 0.2px solid gray;
     height: 210px;
-    width: calc(50% - 10px); /* Adjust width to fit two cards per row */
+    width: calc(50% - 10px);
     padding: 0px;
     border-radius: 5px;
-    margin: 5px; /* Adjust margin to fit two cards per row */
-    box-sizing: border-box; /* Ensure padding and border are included in the width */
+    margin: 5px; 
+    box-sizing: border-box; 
 }
 
 .cat-font {
@@ -488,7 +488,7 @@ hr{
 .product-price {
     display: flex;
     margin: 5px;
-    width: calc(100% - 10px); /* Adjust width to fit within the card */
+    width: calc(100% - 10px); 
 }
 
 .product img {
@@ -497,10 +497,10 @@ hr{
 }
 
 .main-product {
-    width: 100%; /* Ensure the container takes full width */
+    width: 100%;
     display: flex;
-    flex-wrap: wrap; /* Allow wrapping to the next line if needed */
-    justify-content: space-between; /* Distribute space between cards */
+    flex-wrap: wrap; 
+    justify-content: space-between;
 }
 
 }
